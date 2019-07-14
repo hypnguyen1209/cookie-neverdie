@@ -1,2 +1,4 @@
 # cookie-neverdie
-A mini tool to help you maintain and manage cookies easily
+-----------------------------------------------------------------
+1. Config tại file connect.php
+2. Export file import.sql vào database
