@@ -39,7 +39,7 @@ CREATE TABLE `form` (
 --
 
 INSERT INTO `form` (`id`, `url`, `cookie`) VALUES
-(1, 'https://messenger.com', '');
+(1, 'https://messenger.com', 'cookie');
 
 --
 -- Indexes for dumped tables
